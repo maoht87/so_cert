@@ -1,1 +1,3 @@
-# so_cert
+#Mint Service#
+
+###Basic Service Provider for ScriptMint application###
